@@ -1,0 +1,77 @@
+html {
+    background: #FFFFFF;
+    color: #000;
+}
+h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+h2,
+h3,
+li,
+p,
+ul {
+    font-family: 'Nunito', sans-serif;
+}
+i {
+    font-size: 22px;
+}
+.container {
+    width: 100%;
+    background-color: #ddd;
+}
+.skills {
+    text-align: right;
+    padding: 10px;
+    color: white;
+}
+.html {
+    width: 80%;
+    background-color: #f44336;
+    font-family: 'Major Mono Display', monospace;
+}
+.css {
+    width: 80%;
+    background-color: #2196F3;
+    font-family: 'Major Mono Display', monospace;
+}
+.bootstrap {
+    width: 50%;
+    background-color: #808080;
+    font-family: 'Major Mono Display', monospace;
+}
+.js {
+    width: 50%;
+    background-color: #E8C829;
+    font-family: 'Major Mono Display', monospace;
+}
+.reactjs {
+    width: 30%;
+    background-color: #30B9DB;
+    font-family: 'Major Mono Display', monospace;
+}
+.sass {
+    width: 30%;
+    background-color: #FF00FA;
+    font-family: 'Major Mono Display', monospace;
+}
+.photoshop {
+    width: 30%;
+    background-color: #031A6B;
+    font-family: 'Major Mono Display', monospace;
+}
+.office {
+    width: 50%;
+    background-color: #23A040;
+    font-family: 'Major Mono Display', monospace;
+}
+.ingles {
+    width: 65%;
+    background-color: #000;
+    font-family: 'Major Mono Display', monospace;
+}
+.rodape{
+    width: 100%;
+    color: #000;
+    font-size: 22px;
+    text-align: center;
+}
