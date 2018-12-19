@@ -1,0 +1,68 @@
+html {
+    background: #CCC;
+    color: #000;
+}
+h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+h2,
+h3,
+li,
+p,
+ul {
+    font-family: 'Nunito', sans-serif;
+}
+i {
+    font-size: 22px;
+}
+.container {
+    width: 100%;
+    background-color: #ddd;
+}
+.skills {
+    text-align: right;
+    padding: 10px;
+    color: white;
+}
+.html {
+    width: 90%;
+    background-color: #f44336;
+}
+.css {
+    width: 90%;
+    background-color: #2196F3;
+}
+.bootstrap {
+    width: 50%;
+    background-color: #808080;
+}
+.js {
+    width: 50%;
+    background-color: #E8C829;
+}
+.reactjs {
+    width: 30%;
+    background-color: #30B9DB;
+}
+.sass {
+    width: 50%;
+    background-color: #FF00FA;
+}
+.photoshop {
+    width: 30%;
+    background-color: #031A6B;
+}
+.office {
+    width: 60%;
+    background-color: #23A040;
+}
+.ingles {
+    width: 65%;
+    background-color: #000;
+}
+.rodape{
+    width: 100%;
+    color: #000;
+    font-size: 22px;
+    text-align: center;
+}
