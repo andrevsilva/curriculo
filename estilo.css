@@ -49,14 +49,24 @@ i {
     background-color: #30B9DB;
     font-family: 'Major Mono Display', monospace;
 }
+.jquery {
+    width: 30%;
+    background-color: #004377;
+    font-family: 'Major Mono Display', monospace;
+}
 .sass {
     width: 30%;
     background-color: #FF00FA;
     font-family: 'Major Mono Display', monospace;
 }
+.wordpress {
+    width: 50%;
+    background-color: navy;
+    font-family: 'Major Mono Display', monospace;
+}
 .photoshop {
     width: 30%;
-    background-color: #031A6B;
+    background-color: #00CBFF;
     font-family: 'Major Mono Display', monospace;
 }
 .office {
